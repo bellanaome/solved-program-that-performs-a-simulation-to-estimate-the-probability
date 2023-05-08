@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-program-that-performs-a-simulation-to-estimate-the-probability
+<br>
+Write an Object Oriented Program that performs a simulation to estimate the probability of rolling five-of-a-kind in single roll of five six-sided dice.Create a file that defines class Die, which has one instance variable (top) and a roll method for randomly assigning a new value (1 through 6) to top.Create a second file that imports the Die class and creates five dice. Allow the user to specify how many rolls are to be simulated. Run the simulation and print the probability (Number of Five-of-a-kind rolls divided by total rolls).
